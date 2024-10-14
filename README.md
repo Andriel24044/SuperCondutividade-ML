@@ -40,5 +40,5 @@ O VIF, uma importante ferramenta para análise de multicolinearidade, é utiliza
 
 ### Floresta aleatória
 
-
+## Referências
 
