@@ -7,6 +7,9 @@ Os atributos utilizados para a análise posterior foram determinados com base no
 
 [colar os atributos]
 
+## Target
+[adicionar]
+
 ## Estrutura do projeto 
 Introdução
 - Dataset
@@ -46,7 +49,8 @@ O VIF, uma importante ferramenta para análise de multicolinearidade, é utiliza
 ## Referências
 [1] UCI Machine Learning Repository. Disponível em: [url](<https://archive.ics.uci.edu/dataset/464/superconductivty+data>) <br>
 [2] Optuna - A hyperparameter optimization framework. Disponível em: [url](<https://optuna.org/>)  <br>
-[3] PRAKASH, P. Understanding Baseline Models in Machine Learning. Disponível em: [url](<https://medium.com/@preethi_prakash/understanding-baseline-models-in-machine-learning-3ed94f03d645>)<br>
+[3] YEMULWAR, S. Feature Selection Techniques. Disponível em: [url](<https://medium.com/analytics-vidhya/feature-selection-techniques-2614b3b7efcd>)
+[4] PRAKASH, P. Understanding Baseline Models in Machine Learning. Disponível em: [url](<https://medium.com/@preethi_prakash/understanding-baseline-models-in-machine-learning-3ed94f03d645>)<br>
 
 ‌
 
