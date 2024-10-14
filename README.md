@@ -1,6 +1,7 @@
 # SuperCondutividade-ML
 
-### estrutura do projeto:
+## Estrutura do projeto:
+___________________________
 Introdução
 - Dataset
 - Tratamento de dados
