@@ -44,4 +44,6 @@ O VIF, uma importante ferramenta para análise de multicolinearidade, é utiliza
 ### Floresta aleatória
 
 ## Referências
+[1] Optuna - A hyperparameter optimization framework. Disponível em: <https://optuna.org/>.
 
+‌
