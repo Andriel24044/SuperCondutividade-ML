@@ -22,6 +22,9 @@ Modelos
 
 Referências
 
+## Guia
+[explicar o código]
+
 ## Abordagem das ferramentas
 
 ### Optuna
