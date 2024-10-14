@@ -44,8 +44,8 @@ O VIF, uma importante ferramenta para análise de multicolinearidade, é utiliza
 ### Floresta aleatória
 
 ## Referências
-[1] UCI Machine Learning Repository. Disponível em: [url](<https://archive.ics.uci.edu/dataset/464/superconductivty+data>)
-[2] Optuna - A hyperparameter optimization framework. Disponível em: [url](<https://optuna.org/>)
+[1] UCI Machine Learning Repository. Disponível em: [url](<https://archive.ics.uci.edu/dataset/464/superconductivty+data>)\\
+[2] Optuna - A hyperparameter optimization framework. Disponível em: [url](<https://optuna.org/>) \\
 [3] PRAKASH, P. Understanding Baseline Models in Machine Learning. Disponível em: [url](<https://medium.com/@preethi_prakash/understanding-baseline-models-in-machine-learning-3ed94f03d645>)
 
 ‌
