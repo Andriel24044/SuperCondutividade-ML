@@ -37,7 +37,7 @@ Optuna é um framework agnóstico (não está associado a nenhuma tecnologia em 
 O VIF, uma importante ferramenta para análise de multicolinearidade, é utilizado para filtrar grupos de atributos que possuem alta colinearidade, impactando na performance do modelo e no erro posterior. Sendo assim, essas variáveis são eliminadas.
 
 ### BaseLine
-
+O modelo baseline atua como um parâmetro para avaliar a eficiência de modelos mais complexos, sendo composto pela média ou mediana da variável alvo no caso de problemas de regressão.
 ### Modelo Linear
 
 ### Modelo Bayesiano
