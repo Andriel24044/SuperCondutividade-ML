@@ -1,11 +1,42 @@
 # SuperCondutividade-ML
+
 ## Motivação
 No presente trabalho, utilizou-se uma base de dados de supercondutividade com o intuito de estudar o comportamento dos materiais supercondutores em elevados níveis de temperatura e, assim, estimar seu valor crítico. Este dataset encontra-se presente no repositório [1].
 
 ## Atributos
 Os atributos utilizados para a análise posterior foram determinados com base no método de seleção de atributos pelo fator de inflação de variância (VIF). Inicialmente, eram compostos por 81 atributos, que foram reduzidos a 29 a partir deste método. Abaixo seguem os atributos selecionados:
 
-[colar os atributos]
+| **Atributo**                       | **Significado**                                                                                              |
+|------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **mean_atomic_mass**               | Média da massa atômica dos elementos.                                                                         |
+| **wtd_range_atomic_mass**          | Intervalo ponderado da massa atômica.                                                                         |
+| **std_atomic_mass**                | Desvio padrão da massa atômica.                                                                                 |
+| **gmean_fie**                      | Média geométrica da energia de ionização (fie = First Ionization Energy).                                      |
+| **wtd_range_fie**                  | Intervalo ponderado da energia de ionização.                                                                   |
+| **mean_atomic_radius**             | Média do raio atômico dos elementos.                                                                          |
+| **wtd_range_atomic_radius**        | Intervalo ponderado do raio atômico.                                                                          |
+| **std_atomic_radius**              | Desvio padrão do raio atômico.                                                                                 |
+| **wtd_entropy_Density**            | Entropia ponderada da densidade dos elementos.                                                                 |
+| **range_Density**                  | Intervalo da densidade dos elementos.                                                                          |
+| **wtd_range_Density**              | Intervalo ponderado da densidade.                                                                              |
+| **mean_ElectronAffinity**          | Média da afinidade eletrônica dos elementos (energia liberada ao adicionar um elétron).                        |
+| **wtd_gmean_ElectronAffinity**     | Média geométrica ponderada da afinidade eletrônica.                                                            |
+| **wtd_entropy_ElectronAffinity**   | Entropia ponderada da afinidade eletrônica.                                                                    |
+| **range_ElectronAffinity**         | Intervalo da afinidade eletrônica.                                                                             |
+| **wtd_std_ElectronAffinity**       | Desvio padrão ponderado da afinidade eletrônica.                                                               |
+| **gmean_FusionHeat**               | Média geométrica do calor de fusão dos elementos.                                                              |
+| **range_FusionHeat**               | Intervalo do calor de fusão.                                                                                   |
+| **wtd_range_FusionHeat**           | Intervalo ponderado do calor de fusão.                                                                         |
+| **wtd_std_FusionHeat**             | Desvio padrão ponderado do calor de fusão.                                                                     |
+| **mean_ThermalConductivity**       | Média da condutividade térmica dos elementos.                                                                  |
+| **wtd_gmean_ThermalConductivity**  | Média geométrica ponderada da condutividade térmica.                                                           |
+| **entropy_ThermalConductivity**    | Entropia da condutividade térmica.                                                                             |
+| **wtd_entropy_ThermalConductivity**| Entropia ponderada da condutividade térmica.                                                                   |
+| **wtd_range_ThermalConductivity**  | Intervalo ponderado da condutividade térmica.                                                                  |
+| **gmean_Valence**                  | Média geométrica da valência (número de elétrons de valência).                                                 |
+| **range_Valence**                  | Intervalo do número de elétrons de valência.                                                                   |
+| **wtd_range_Valence**              | Intervalo ponderado do número de elétrons de valência.                                                         |
+| **wtd_std_Valence**                | Desvio padrão ponderado do número de elétrons de valência.                                                     |
 
 ## Target
 [adicionar]
