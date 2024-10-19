@@ -39,14 +39,16 @@ O VIF, uma importante ferramenta para análise de multicolinearidade, é utiliza
 ### BaseLine
 O modelo baseline atua como um parâmetro para avaliar a eficiência de modelos mais complexos, sendo composto pela média ou mediana da variável alvo no caso de problemas de regressão.
 ### Modelo Linear
+O modelo linear baseia-se na predição estatística através de métodos de aproximação, como o de mínimos quadrados. Sua principal característica é a geração de funções polinomiais que tentam representar a relação entre variáveis independentes e a variável dependente. Os coeficientes do modelo são obtidos minimizando a soma dos quadrados das diferenças entre os valores observados e os valores preditos.
 
 ### Modelo Bayesiano
+  Ao contrário do modelo linear tradicional, a regressão bayesiana utiliza o Teorema de Bayes para estimar os parâmetros do modelo. Nessa abordagem, os parâmetros são tratados como variáveis aleatórias, e as distribuições a priori são definidas com base em conhecimentos ou suposições anteriores. A partir dos dados observados, a distribuição posterior dos parâmetros é calculada, levando em consideração tanto a informação prévia quanto os dados disponíveis.
 
 ### K-NN
 O algoritmo K-NN (K-Nearest Neighbors) estima a classe ou valor de um elemento desconhecido com base na distância entre os dados. Para isso, ele considera os K elementos mais próximos, um número que deve ser definido pelo usuário. Diferentes técnicas podem ser usadas para calcular a distância, como a Euclidiana, Manhattan, Minkowski ou Ponderada. Por fim, o algoritmo analisa esses vizinhos mais próximos e faz a estimativa com base na proximidade entre eles.
 ### Floresta aleatória
 - #### Árvore de Decisão
-O algoritmo de árvore de decisão organiza os dados em uma estrutura de árvore, o que facilita a análise e a interpretação dos atributos. No entanto, para dados mais complexos, é comum ocorrer overfitting, onde o modelo se ajusta muito bem aos dados de treino, mas não generaliza adequadamente para novos dados.
+  O algoritmo de árvore de decisão organiza os dados em uma estrutura de árvore, o que facilita a análise e a interpretação dos atributos. No entanto, para dados mais complexos, é comum ocorrer overfitting, onde o modelo se ajusta muito bem aos dados de treino, mas não generaliza adequadamente para novos dados.
 
 Para evitar o overfitting, o algoritmo de floresta aleatória se mostra eficiente. Ele combina várias pequenas árvores de decisão, onde cada árvore é treinada com um subconjunto aleatório de dados e de atributos. Esse processo, cria um modelo mais robusto e menos suscetível ao overfitting, pois as árvores trabalham juntas para melhorar a precisão do modelo. Ao utilizar pequenas amostras de dados em cada árvore, a floresta aleatória otimiza a função de predição e aumenta a sua capacidade de generalização.
 ## Referências
