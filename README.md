@@ -43,7 +43,7 @@ O modelo baseline atua como um parâmetro para avaliar a eficiência de modelos 
 ### Modelo Bayesiano
 
 ### K-NN
-O algoritmo K-NN (K-Nearest Neighbors) estima a classe ou valor de um elemento desconhecido com base na distância entre os dados. Para isso, ele considera os K elementos mais próximos, um número que deve ser definido pelo usuário. Diferentes técnicas podem ser usadas para calcular a distância, como a Euclidiana, Manhattan, Minkowski ou Ponderada. Por fim, o algoritmo então analisa esses vizinhos mais próximos e faz a estimativa com base na proximidade entre eles.
+O algoritmo K-NN (K-Nearest Neighbors) estima a classe ou valor de um elemento desconhecido com base na distância entre os dados. Para isso, ele considera os K elementos mais próximos, um número que deve ser definido pelo usuário. Diferentes técnicas podem ser usadas para calcular a distância, como a Euclidiana, Manhattan, Minkowski ou Ponderada. Por fim, o algoritmo analisa esses vizinhos mais próximos e faz a estimativa com base na proximidade entre eles.
 ### Floresta aleatória
 
 ## Referências
