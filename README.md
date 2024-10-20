@@ -62,7 +62,7 @@ Referências
 ## Abordagem das ferramentas
 
 ### Optuna
-Optuna é um framework agnóstico (não está associado a nenhuma tecnologia em específico). Dada essa liberdade, vem sendo utilizado em diversos meios para a otimização de hiperparâmetros, permitindo um melhor desempenho do modelo a ser desenvolvido. Buscando esta 
+Optuna é um framework agnóstico (não está associado a nenhuma tecnologia em específico). Dada essa liberdade, vem sendo utilizado em diversos meios para a otimização de hiperparâmetros, permitindo um melhor desempenho do modelo a ser desenvolvido. Através de uma abordagem baseada em busca adaptativa, o Optuna ajusta automaticamente os parâmetros do modelo, permitindo alcançar um melhor desempenho.
 
 ### Fator de Inflação de Variância (VIF)
 O VIF, uma importante ferramenta para análise de multicolinearidade, é utilizado para filtrar grupos de atributos que possuem alta colinearidade, impactando na performance do modelo e no erro posterior. Sendo assim, essas variáveis são eliminadas.
