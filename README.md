@@ -82,6 +82,10 @@ O algoritmo K-NN (K-Nearest Neighbors) estima a classe ou valor de um elemento d
   O algoritmo de árvore de decisão organiza os dados em uma estrutura de árvore, o que facilita a análise e a interpretação dos atributos. No entanto, para dados mais complexos, é comum ocorrer overfitting, onde o modelo se ajusta muito bem aos dados de treino, mas não generaliza adequadamente para novos dados.
 
 Para evitar o overfitting, o algoritmo de floresta aleatória se mostra eficiente. Ele combina várias pequenas árvores de decisão, onde cada árvore é treinada com um subconjunto aleatório de dados e de atributos. Esse processo, cria um modelo mais robusto e menos suscetível ao overfitting, pois as árvores trabalham juntas para melhorar a precisão do modelo. Ao utilizar pequenas amostras de dados em cada árvore, a floresta aleatória otimiza a função de predição e aumenta a sua capacidade de generalização.
+
+### RMSE
+A RMSE (Root Mean Square Error) é uma métrica utilizada para avaliar o desempenho de um modelo de regressão. Ela é calculada pela raiz quadrada da média dos quadrados dos erros, oferecendo uma medida direta da diferença entre os valores previstos e os valores observados. Como a RMSE é sensível a outliers, deve-se ter cuidado, pois grandes desvios podem influenciar significativamente o resultado.
+
 ## Referências
 [1] UCI Machine Learning Repository. Disponível em: [url](<https://archive.ics.uci.edu/dataset/464/superconductivty+data>) <br>
 [2] Optuna - A hyperparameter optimization framework. Disponível em: [url](<https://optuna.org/>)  <br>
