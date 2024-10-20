@@ -65,7 +65,7 @@ Referências
 Optuna é um framework agnóstico (não está associado a nenhuma tecnologia em específico). Dada essa liberdade, vem sendo utilizado em diversos meios para a otimização de hiperparâmetros, permitindo um melhor desempenho do modelo a ser desenvolvido. Através de uma abordagem baseada em busca adaptativa, o Optuna ajusta automaticamente os parâmetros do modelo, permitindo alcançar um melhor desempenho.
 
 ### Fator de Inflação de Variância (VIF)
-O VIF, uma importante ferramenta para análise de multicolinearidade, é utilizado para filtrar grupos de atributos que possuem alta colinearidade, impactando na performance do modelo e no erro posterior. Sendo assim, essas variáveis são eliminadas.
+O VIF (Variance Inflation Factor) é uma importante ferramenta para análise de multicolinearidade, utilizada para identificar e filtrar grupos de atributos que apresentam alta colinearidade. A presença de multicolinearidade pode prejudicar a performance do modelo, dificultando a interpretação dos coeficientes e levando a um aumento no erro posterior. Dessa forma, as variáveis que apresentam um VIF elevado são eliminadas ou ajustadas, visando melhorar a robustez e a precisão do modelo.
 
 ### BaseLine
 O modelo baseline atua como um parâmetro para avaliar a eficiência de modelos mais complexos, sendo composto pela média ou mediana da variável alvo no caso de problemas de regressão.
