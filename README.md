@@ -83,7 +83,7 @@ O algoritmo K-NN (K-Nearest Neighbors) estima a classe ou valor de um elemento d
 
 Para evitar o overfitting, o algoritmo de floresta aleatória se mostra eficiente. Ele combina várias pequenas árvores de decisão, onde cada árvore é treinada com um subconjunto aleatório de dados e de atributos. Esse processo, cria um modelo mais robusto e menos suscetível ao overfitting, pois as árvores trabalham juntas para melhorar a precisão do modelo. Ao utilizar pequenas amostras de dados em cada árvore, a floresta aleatória otimiza a função de predição e aumenta a sua capacidade de generalização.
 
-### RMSE
+## RMSE
 A RMSE (Root Mean Square Error) é uma métrica utilizada para avaliar o desempenho de um modelo de regressão. Ela é calculada pela raiz quadrada da média dos quadrados dos erros, oferecendo uma medida direta da diferença entre os valores previstos e os valores observados. Como a RMSE é sensível a outliers, deve-se ter cuidado, pois grandes desvios podem influenciar significativamente o resultado.
 
 ## Referências
