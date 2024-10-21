@@ -38,8 +38,99 @@ Os atributos utilizados para a análise posterior foram determinados com base no
 | **wtd_range_Valence**              | Intervalo ponderado do número de elétrons de valência.                                                         |
 | **wtd_std_Valence**                | Desvio padrão ponderado do número de elétrons de valência.                                                     |
 
+Para critério de comparação, utilizou-se outra lista de atributos:
+
+- H
+- He
+- Li
+- Be
+- B
+- C
+- N
+- O
+- F
+- Ne
+- Na
+- Mg
+- Al
+- Si
+- P
+- S
+- Cl
+- Ar
+- K
+- Ca
+- Sc
+- Ti
+- V
+- Cr
+- Mn
+- Fe
+- Co
+- Ni
+- Cu
+- Zn
+- Ga
+- Ge
+- As
+- Se
+- Br
+- Kr
+- Rb
+- Sr
+- Y
+- Zr
+- Nb
+- Mo
+- Tc
+- Ru
+- Rh
+- Pd
+- Ag
+- Cd
+- In
+- Sn
+- Sb
+- Te
+- I
+- Xe
+- Cs
+- Ba
+- La
+- Ce
+- Pr
+- Nd
+- Pm
+- Sm
+- Eu
+- Gd
+- Tb
+- Dy
+- Ho
+- Er
+- Tm
+- Yb
+- Lu
+- Hf
+- Ta
+- W
+- Re
+- Os
+- Ir
+- Pt
+- Au
+- Hg
+- Tl
+- Pb
+- Bi
+- Po
+- At
+- Rn
+
+E, por fim, juntaram-se as duas listas de atributos.
+
 ## Target
-[adicionar]
+**critical_temp**
 
 ## Estrutura do projeto 
 Introdução
