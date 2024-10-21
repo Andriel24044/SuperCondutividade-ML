@@ -10,6 +10,6 @@ Esta pasta contém os arquivos gerados pelo Optuna na otimização dos hiperpar�
     - `knn-superconduct-unique-m.db`: seleção de hiperparâmetros do optuna para o modelo K-nn com o segundo dataset
     - `random_forest_supercond_unique_m.db`: seleção de hiperparâmetros do optuna para o modelo de floresta aleatória com o segundo dataset
 
-  - Terceiro dataset: representa a junção de ambos os datasets → VIF no primeiro dataset + segundo dataset (original)
-      - `superconductivty_ambos_datasets`: seleção de hiperparâmetros do optuna para o modelo K-nn com o terceiro dataset
-      - `random_forest_supercond_ambos`: seleção de hiperparâmetros do optuna para o modelo de floresta aleatória com o terceiro dataset
+- Terceiro dataset: representa a junção de ambos os datasets → VIF no primeiro dataset + segundo dataset (original)
+    - `superconductivty_ambos_datasets`: seleção de hiperparâmetros do optuna para o modelo K-nn com o terceiro dataset
+    -  `random_forest_supercond_ambos`: seleção de hiperparâmetros do optuna para o modelo de floresta aleatória com o terceiro dataset
