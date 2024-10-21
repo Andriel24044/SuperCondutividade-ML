@@ -130,7 +130,7 @@ Para evitar o overfitting, o algoritmo de floresta aleatória se mostra eficient
 A RMSE (Root Mean Square Error) é uma métrica utilizada para avaliar o desempenho de um modelo de regressão. Ela é calculada pela raiz quadrada da média dos quadrados dos erros, oferecendo uma medida direta da diferença entre os valores previstos e os valores observados. Como a RMSE é sensível a outliers, deve-se ter cuidado, pois grandes desvios podem influenciar significativamente o resultado.
 
 ## Referências
-[1] UCI Machine Learning Repository. Disponível em: [url](<https://archive.ics.uci.edu/dataset/464/superconductivty+data>) <br>
+[1]: UCI Machine Learning Repository. Disponível em: [url](<https://archive.ics.uci.edu/dataset/464/superconductivty+data>) <br>
 [2] Optuna - A hyperparameter optimization framework. Disponível em: [url](<https://optuna.org/>)  <br>
 [3] YEMULWAR, S. Feature Selection Techniques. Disponível em: [url](<https://medium.com/analytics-vidhya/feature-selection-techniques-2614b3b7efcd>) <br>
 [4] PRAKASH, P. Understanding Baseline Models in Machine Learning. Disponível em: [url](<https://medium.com/@preethi_prakash/understanding-baseline-models-in-machine-learning-3ed94f03d645>)<br>
