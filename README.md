@@ -69,37 +69,45 @@ superconductivty_data = fetch_ucirepo(id=464)
 
 2. Tratamento de Dados
 
-Após a importação, foi necessário tratar os dados, removendo valores ausentes, outliers e transformando variáveis categóricas em numéricas.
-
+Após a importação, foi necessário tratar os dados para evitar casos de multicolinearidade e, para isso, utilizou-se o algoritmo VIF para eliminar variáveis altamente correlacionadas.
 ```
-código
-```
+def selecao_vif(df_atributos, limiar_vif):
+...
+    return df
 
-3. Remoção de Colinearidade
+limiar_VIF = 10
 
-Para evitar multicolinearidade, utilizou-se o algoritmo VIF para eliminar variáveis altamente correlacionadas.
-
-```
-código
+X_modificado = selecao_vif(X, limiar_VIF)
 ```
 
-4. Otimização de Hiperparâmetros com Optuna
+3. Otimização de Hiperparâmetros com Optuna
 
 Optuna é uma ferramenta útil para otimizar hiperparâmetros de modelos.
 
 ```
-código
+from optuna import create_study
+
+NOME_DO_ESTUDO = "supercondutividade-knn-dataset1"
+
+objeto_de_estudo = create_study(
+    direction="minimize",
+    study_name=NOME_DO_ESTUDO,
+    storage=f"sqlite:///{NOME_DO_ESTUDO}.db",
+    load_if_exists=True,
+)
 ```
 
-5. Avaliação com RMSE
+4. Avaliação com RMSE
 
 Após a otimização, os modelos são avaliados com base no erro quadrático médio (RMSE).
 
 ```
-código
+from sklearn.metrics import mean_squared_error
+
+RMSE_knn = mean_squared_error(y_teste, y_previsto) ** (1/2)
 ```
 
-6. Comparação dos Resultados
+5. Comparação dos Resultados
 
 Os resultados de diferentes modelos foram comparados através dos RMSEs.
 
