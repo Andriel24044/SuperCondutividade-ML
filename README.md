@@ -209,10 +209,10 @@ Os resultados de diferentes modelos foram comparados através dos RMSEs.
 | Modelo            | Apenas o Dataset 1 | Apenas o Dataset 2 | Ambos os datasets |
 |:-------------------:|:--------------------:|:--------------------:|:-------------------:|
 | **Baseline**          | 34.2536            | 34.2536            | 34.2536           |
-| **LinearRegression**   | 20.1307            | 22.0638            | **18.2168**           |
-| **BayesianRidge**     | 20.1265            | 22.0058            | **18.2070**           |
-| **K-nn**              | 12.7460            | **10.5990**            | 12.7822           |
-| **Random Forest**     | 9.66419            | **9.03719**            | 9.11458           |
+| **LinearRegression**   | 17.4543            | 22.0200            | **18.2168**           |
+| **BayesianRidge**     | 17.4629            | 22.0058            | **18.2070**           |
+| **K-nn**              | 11.5366            | **10.5926**            | 12.7433           |
+| **Random Forest**     | 9.4482            | **9.03722**            | 13.1167           |
 
 ## Abordagem das ferramentas
 
