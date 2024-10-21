@@ -132,7 +132,9 @@ Para critério de comparação, utilizou-se outra lista de atributos contendo os
 E, por fim, juntaram-se as duas listas de atributos.
 
 ## Target
-**critical_temp**
+|**Target**| **Significado**|
+|------|------------|
+|critical_temp|Temperatura Crítica|
 
 ## Estrutura do projeto 
 Introdução
