@@ -62,7 +62,9 @@ Referências
 Primeiramente, importou-se o dataset da base de dados.
 
 ```
-código 
+from ucimlrepo import fetch_ucirepo 
+
+superconductivty_data = fetch_ucirepo(id=464) 
 ```
 
 2. Tratamento de Dados
