@@ -57,7 +57,50 @@ Modelos
 Referências
 
 ## Guia
-[explicar o código]
+1. Importação dos Dados
+
+Primeiramente, importou-se o dataset da base de dados.
+
+```
+código 
+```
+
+2. Tratamento de Dados
+
+Após a importação, foi necessário tratar os dados, removendo valores ausentes, outliers e transformando variáveis categóricas em numéricas.
+
+```
+código
+```
+
+3. Remoção de Colinearidade
+
+Para evitar multicolinearidade, utilizou-se o algoritmo VIF para eliminar variáveis altamente correlacionadas.
+
+```
+código
+```
+
+4. Otimização de Hiperparâmetros com Optuna
+
+Optuna é uma ferramenta útil para otimizar hiperparâmetros de modelos.
+
+```
+código
+```
+
+5. Avaliação com RMSE
+
+Após a otimização, os modelos são avaliados com base no erro quadrático médio (RMSE).
+
+```
+código
+```
+
+6. Comparação dos Resultados
+
+Os resultados de diferentes modelos foram comparados através dos RMSEs.
+
 
 ## Abordagem das ferramentas
 
