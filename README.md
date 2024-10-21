@@ -142,12 +142,14 @@ A RMSE (Root Mean Square Error) é uma métrica utilizada para avaliar o desempe
 ## Referências
 [1]<a id="ref1"></a>UCI Machine Learning Repository. Disponível em: [url](<https://archive.ics.uci.edu/dataset/464/superconductivty+data>) <br>
 [2]<a id="ref2"></a>Optuna - A hyperparameter optimization framework. Disponível em: [url](<https://optuna.org/>)  <br>
-[3] YEMULWAR, S. Feature Selection Techniques. Disponível em: [url](<https://medium.com/analytics-vidhya/feature-selection-techniques-2614b3b7efcd>) <br>
-[4] PRAKASH, P. Understanding Baseline Models in Machine Learning. Disponível em: [url](<https://medium.com/@preethi_prakash/understanding-baseline-models-in-machine-learning-3ed94f03d645>)<br>
-[5] KOEHRSEN, W. Introduction to Bayesian Linear Regression. Disponível em: [url](<https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7>) <br>
-[6] JOSÉ, I. KNN (K-Nearest Neighbors) #1. Disponível em: [url](<https://medium.com/brasil-ai/knn-k-nearest-neighbors-1-e140c82e9c4e>) <br>
-[7] PESSANHA, C. Random Forest: como funciona um dos algoritmos mais populares de ML. Disponível em: [url](<https://medium.com/cinthiabpessanha/random-forest-como-funciona-um-dos-algoritmos-mais-populares-de-ml-cc1b8a58b3b4>)
+[3]<a id="ref3"></a> YEMULWAR, S. Feature Selection Techniques. Disponível em: [url](<https://medium.com/analytics-vidhya/feature-selection-techniques-2614b3b7efcd>) <br>
+[4]<a id="ref4"></a> PRAKASH, P. Understanding Baseline Models in Machine Learning. Disponível em: [url](<https://medium.com/@preethi_prakash/understanding-baseline-models-in-machine-learning-3ed94f03d645>)<br>
+[5]<a id="ref5"></a> KOEHRSEN, W. Introduction to Bayesian Linear Regression. Disponível em: [url](<https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7>) <br>
+[6]<a id="ref6"></a> JOSÉ, I. KNN (K-Nearest Neighbors) #1. Disponível em: [url](<https://medium.com/brasil-ai/knn-k-nearest-neighbors-1-e140c82e9c4e>) <br>
+[7]<a id="ref7"></a> PESSANHA, C. Random Forest: como funciona um dos algoritmos mais populares de ML. Disponível em: [url](<https://medium.com/cinthiabpessanha/random-forest-como-funciona-um-dos-algoritmos-mais-populares-de-ml-cc1b8a58b3b4>)
+[8]<a id="ref8"></a>FILHO, M. RMSE (Raiz Do Erro Quadrático Médio) Em Machine Learning. Disponível em: [url](<https://mariofilho.com/rmse-raiz-do-erro-quadratico-medio-em-machine-learning/>)
 
+‌
 ‌
 
 ‌
