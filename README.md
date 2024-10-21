@@ -1,7 +1,7 @@
 # SuperCondutividade-ML
 
 ## Motivação
-No presente trabalho, utilizou-se uma base de dados de supercondutividade com o intuito de estudar o comportamento dos materiais supercondutores em elevados níveis de temperatura e, assim, estimar seu valor crítico. Este dataset encontra-se presente no repositório [[1]](#referencias).
+No presente trabalho, utilizou-se uma base de dados de supercondutividade com o intuito de estudar o comportamento dos materiais supercondutores em elevados níveis de temperatura e, assim, estimar seu valor crítico. Este dataset encontra-se presente no repositório [1](#referencias).
 
 ## Atributos
 Os atributos utilizados para a análise posterior foram determinados com base no método de seleção de atributos pelo fator de inflação de variância (VIF). Inicialmente, eram compostos por 81 atributos, que foram reduzidos a 29 a partir deste método. Abaixo seguem os atributos selecionados:
