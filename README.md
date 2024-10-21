@@ -1,7 +1,7 @@
 # SuperCondutividade-ML
 
 ## Motivação
-No presente trabalho, utilizou-se uma base de dados de supercondutividade com o intuito de estudar o comportamento de supercondutividade em 21,263 materiais e, assim, estimar seu valor de temperatura crítica. Este dataset, Superconductivty, encontra-se presente no repositório UCI Machine Learning [\[1\]](#ref1).
+No presente trabalho, utilizou-se uma base de dados de supercondutividade com o intuito de estudar o comportamento de supercondutividade em 21263 materiais e, assim, estimar seu valor de temperatura crítica. Este dataset, Superconductivty, encontra-se presente no repositório UCI Machine Learning [\[1\]](#ref1).
 
 ## Atributos
 Os atributos utilizados para a análise posterior foram determinados com base no método de seleção de atributos pelo fator de inflação de variância (VIF). Inicialmente, eram compostos por 81 atributos, que foram reduzidos a 29 a partir deste método. Abaixo seguem os atributos selecionados:
