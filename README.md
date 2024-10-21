@@ -40,92 +40,94 @@ Os atributos utilizados para a análise posterior foram determinados com base no
 
 Para critério de comparação, utilizou-se outra lista de atributos contendo os átomos:
 
-- H
-- He
-- Li
-- Be
-- B
-- C
-- N
-- O
-- F
-- Ne
-- Na
-- Mg
-- Al
-- Si
-- P
-- S
-- Cl
-- Ar
-- K
-- Ca
-- Sc
-- Ti
-- V
-- Cr
-- Mn
-- Fe
-- Co
-- Ni
-- Cu
-- Zn
-- Ga
-- Ge
-- As
-- Se
-- Br
-- Kr
-- Rb
-- Sr
-- Y
-- Zr
-- Nb
-- Mo
-- Tc
-- Ru
-- Rh
-- Pd
-- Ag
-- Cd
-- In
-- Sn
-- Sb
-- Te
-- I
-- Xe
-- Cs
-- Ba
-- La
-- Ce
-- Pr
-- Nd
-- Pm
-- Sm
-- Eu
-- Gd
-- Tb
-- Dy
-- Ho
-- Er
-- Tm
-- Yb
-- Lu
-- Hf
-- Ta
-- W
-- Re
-- Os
-- Ir
-- Pt
-- Au
-- Hg
-- Tl
-- Pb
-- Bi
-- Po
-- At
-- Rn
+| **Atributo** | **Significado** |
+|--------------|-----------------|
+| H            | Hidrogênio       |
+| He           | Hélio            |
+| Li           | Lítio            |
+| Be           | Berílio          |
+| B            | Boro             |
+| C            | Carbono          |
+| N            | Nitrogênio       |
+| O            | Oxigênio         |
+| F            | Flúor            |
+| Ne           | Neônio           |
+| Na           | Sódio            |
+| Mg           | Magnésio         |
+| Al           | Alumínio         |
+| Si           | Silício          |
+| P            | Fósforo          |
+| S            | Enxofre          |
+| Cl           | Cloro            |
+| Ar           | Argônio          |
+| K            | Potássio         |
+| Ca           | Cálcio           |
+| Sc           | Escândio         |
+| Ti           | Titânio          |
+| V            | Vanádio          |
+| Cr           | Cromo            |
+| Mn           | Manganês         |
+| Fe           | Ferro            |
+| Co           | Cobalto          |
+| Ni           | Níquel           |
+| Cu           | Cobre            |
+| Zn           | Zinco            |
+| Ga           | Gálio            |
+| Ge           | Germânio         |
+| As           | Arsênio          |
+| Se           | Selênio          |
+| Br           | Bromo            |
+| Kr           | Criptônio        |
+| Rb           | Rubídio          |
+| Sr           | Estrôncio        |
+| Y            | Ítrio            |
+| Zr           | Zircônio         |
+| Nb           | Nióbio           |
+| Mo           | Molibdênio       |
+| Tc           | Tecnécio         |
+| Ru           | Rutênio          |
+| Rh           | Ródio            |
+| Pd           | Paládio          |
+| Ag           | Prata            |
+| Cd           | Cádmio           |
+| In           | Índio            |
+| Sn           | Estanho          |
+| Sb           | Antimônio        |
+| Te           | Telúrio          |
+| I            | Iodo             |
+| Xe           | Xenônio          |
+| Cs           | Césio            |
+| Ba           | Bário            |
+| La           | Lantânio         |
+| Ce           | Cério            |
+| Pr           | Praseodímio      |
+| Nd           | Neodímio         |
+| Pm           | Promécio         |
+| Sm           | Samário          |
+| Eu           | Európio          |
+| Gd           | Gadolínio        |
+| Tb           | Térbio           |
+| Dy           | Disprósio        |
+| Ho           | Hólmio           |
+| Er           | Érbio            |
+| Tm           | Túlio            |
+| Yb           | Itérbio          |
+| Lu           | Lutécio          |
+| Hf           | Háfnio           |
+| Ta           | Tântalo          |
+| W            | Tungstênio       |
+| Re           | Rênio            |
+| Os           | Ósmio            |
+| Ir           | Irídio           |
+| Pt           | Platina          |
+| Au           | Ouro             |
+| Hg           | Mercúrio         |
+| Tl           | Tálio            |
+| Pb           | Chumbo           |
+| Bi           | Bismuto          |
+| Po           | Polônio          |
+| At           | Astato           |
+| Rn           | Radônio          |
 
 E, por fim, juntaram-se as duas listas de atributos.
 
