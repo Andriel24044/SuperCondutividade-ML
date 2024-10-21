@@ -131,7 +131,7 @@ A RMSE (Root Mean Square Error) é uma métrica utilizada para avaliar o desempe
 
 ## Referências
 [1]<a id="ref1"></a>UCI Machine Learning Repository. Disponível em: [url](<https://archive.ics.uci.edu/dataset/464/superconductivty+data>) <br>
-[2] Optuna - A hyperparameter optimization framework. Disponível em: [url](<https://optuna.org/>)  <br>
+[2]<a id="ref2"></a>Optuna - A hyperparameter optimization framework. Disponível em: [url](<https://optuna.org/>)  <br>
 [3] YEMULWAR, S. Feature Selection Techniques. Disponível em: [url](<https://medium.com/analytics-vidhya/feature-selection-techniques-2614b3b7efcd>) <br>
 [4] PRAKASH, P. Understanding Baseline Models in Machine Learning. Disponível em: [url](<https://medium.com/@preethi_prakash/understanding-baseline-models-in-machine-learning-3ed94f03d645>)<br>
 [5] KOEHRSEN, W. Introduction to Bayesian Linear Regression. Disponível em: [url](<https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7>) <br>
