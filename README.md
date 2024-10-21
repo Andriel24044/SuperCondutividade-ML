@@ -38,7 +38,7 @@ Os atributos utilizados para a análise posterior foram determinados com base no
 | **wtd_range_Valence**              | Intervalo ponderado do número de elétrons de valência.                                                         |
 | **wtd_std_Valence**                | Desvio padrão ponderado do número de elétrons de valência.                                                     |
 
-Para critério de comparação, utilizou-se outra lista de atributos:
+Para critério de comparação, utilizou-se outra lista de atributos contendo os átomos:
 
 - H
 - He
